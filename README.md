@@ -1,3 +1,13 @@
+Recipe Dashboard
+
+Created a React recipe discovery app with search, filters, and bookmarking
+
+Implemented detailed recipe views with ingredients and instructions
+
+Designed responsive UI with smooth hover animations
+
+Tech: React, JavaScript, Tailwind CSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
